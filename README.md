@@ -8,6 +8,10 @@ The CNN is trained using a few throusand labeled beats. Abbreviations is listed 
 ![Normal heartbeat example](screenshots/demo_normal.png)
 ![Abnormal heartbeat example](screenshots/demo_abnormal.png)
 
+### Dependencies
+- Tensorflow
+- Numpy
+- Matplotlib
 ### run example
 ```
 ~$ git clone https://github.com/KChen89/Heartbeat-Classification-based-Diagnosis.git
@@ -24,7 +28,7 @@ The model is trained using ECG sampled at 360 Hz, and length of each beat trunck
 - [ ] Include more type of beat.
 - [ ] Other platform (Mobile).
 
-Please cite [1][2][3] if use. <br/>
+Please cite [1][2] if use. <br/>
 
 ##### Reference
 [1] K. Chen, W. Fink, J.M. Roveda, et al., "Wearable Sensor Based Stress Management Using Integrated Respiratory and ECG Waveforms", IEEE 12th International Conference on Wearable and Implantable Body Sensor Networks (BSN), 2015. <br/>
