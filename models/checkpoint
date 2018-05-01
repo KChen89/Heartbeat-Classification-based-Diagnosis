@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnn_hb_model"
+all_model_checkpoint_paths: "cnn_hb_model"
