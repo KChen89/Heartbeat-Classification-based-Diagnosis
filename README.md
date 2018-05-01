@@ -28,8 +28,7 @@ The model is trained using ECG sampled at 360 Hz, and length of each beat trunck
 - [ ] Include more type of beat.
 - [ ] Other platform (Mobile).
 
-Please cite [1][2] if use. <br/>
+Please cite [1] if use. <br/>
 
 ##### Reference
-[1] K. Chen, W. Fink, J.M. Roveda, et al., "Wearable Sensor Based Stress Management Using Integrated Respiratory and ECG Waveforms", IEEE 12th International Conference on Wearable and Implantable Body Sensor Networks (BSN), 2015. <br/>
-[2] K. Chen, L.S. Powers, J.M.Roveda, "Noise-Invariant Components Analysis for Wearable Sensor based Electrocardiogram Monitoring System", SM Joural of Biomedical Engineering, 2018, (Under review). <br/>
+[1] K. Chen, L.S. Powers, J.M.Roveda, "Noise-Invariant Components Analysis for Wearable Sensor based Electrocardiogram Monitoring System", SM Joural of Biomedical Engineering, 2018, (Under review). <br/>
