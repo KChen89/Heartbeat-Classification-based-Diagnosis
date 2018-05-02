@@ -26,7 +26,7 @@ def beat_classify(file_name):
 	model_path=os.path.join(os.getcwd(), 'models')
 	file_path=os.path.join(os.getcwd(), 'data', file_name)
 	if not os.path.isfile(file_path):
-		raise ValueError(file_path, 'not found')
+		raise AssertionError(file_path, 'not found')
 	ecg=genfromtxt(file_path)
 	hb_model=restore_model(model_path, model_name)
 	ts=time()
