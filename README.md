@@ -31,4 +31,4 @@ The model is trained using ECG sampled at 360 Hz, and length of each beat trunck
 Please cite [1] if use. <br/>
 
 ##### Reference
-[1] K. Chen, L.S. Powers, J.M.Roveda, "Noise-Invariant Components Analysis for Wearable Sensor based Electrocardiogram Monitoring System", SM Joural of Biomedical Engineering, 2018, (Under review). <br/>
+[1] K. Chen, L.S. Powers, J.M.Roveda, "Noise-Invariant Components Analysis for Wearable Sensor based Electrocardiogram Monitoring System", SM Joural of Biomedical Engineering, 2018, (accepted). <br/>
